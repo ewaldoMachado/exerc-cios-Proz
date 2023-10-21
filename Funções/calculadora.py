@@ -17,7 +17,8 @@ def calcular():
     print(resultado)
 
   else: 
-    print("Operação Invalida. Tente Novamente.")
+    resultado = 0
+    print(resultado)
 
   
 # Declaração de variaveis.
