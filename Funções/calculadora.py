@@ -1,4 +1,4 @@
-# Dclarando Função
+# Declarando Função
 def calcular():
   if(operacao == '1'):
     resultado = num1 + num2
