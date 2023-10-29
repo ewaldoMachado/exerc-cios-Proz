@@ -11,3 +11,7 @@ A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pont
 
  1. crie um link que irá direcionar para essa nova página; 
  2. adicione imagens sobre os lugares.
+
+ # Adicionar CSS
+
+ Agora que já aprendeu as propriedades básicas da CSS, é possível aprimorar a atividade anterior aplicando estilos para a página que você já criou
